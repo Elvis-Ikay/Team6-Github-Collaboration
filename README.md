@@ -1,4 +1,5 @@
 
+
 ## DevOps Team 6 Collaboration.
 
 This repository is a **team 6 project** designed to practice GitHub collaboration, Git best practices, branch protection rules, pull requests (PRs), and code reviews.
@@ -52,3 +53,5 @@ Open a Pull Request (PR) → from your feature branch into develop.
 Review a teammate’s PR → Approve or request changes.
 
 Merge your PR → After at least one approval and status
+
+
